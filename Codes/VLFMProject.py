@@ -1,17 +1,3 @@
-
-
-
-
-**Estimated time:**  
-- Setup + install: ~45 minutes (one-time)  
-- Dataset download: 2–4 hours (HM3D is large — run overnight)  
-- Evaluation (20 episodes): ~30–60 minutes  
-
-**For your semester paper:** You only need ~50–100 episodes to get meaningful SPL and Success Rate numbers to compare with the paper's reported results.
-
----
-
-
 ## Cell 1 — Check GPU
 Make sure you enabled GPU: Runtime → Change runtime type → T4 GPU
 """
